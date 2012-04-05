@@ -1,0 +1,186 @@
+body	{
+		margin-left: 0px;
+		margin-top: 0px;
+		margin-right: 0px;
+		margin-bottom: 0px;
+		background-color: #ffffff;
+		background-image:url('../media/images/repeatback.png');
+		background-repeat:repeat-y;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 12px;
+		line-height: 16px;
+		}
+h1		{
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 12px;
+		line-height: 16px;
+		font-weight:bold;
+		margin:0px;
+		}
+h2		{
+		background-color:#002947;
+		font-size:16px;
+		text-align: center;
+		padding:2px;
+		font-weight:normal;
+		}
+h3		{
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 16px;
+		font-weight:bold;
+		text-align: center;
+		margin:0px;
+		}
+h4		{
+		font-family: Arial, Helvetica, sans-serif;
+		background-color:#002947;
+		font-size:24px;
+		line-height: 30px;
+		text-align: center;
+		padding:5px;
+		font-weight:bold;
+		}
+#content_box
+		{
+		background-image:url('../media/images/repeatback.png');
+		background-repeat:repeat-y;
+		}
+.style2	{
+		color: #FFFFFF
+		}
+
+.style3	{
+		font-family: Arial, Helvetica, sans-serif;
+		}
+
+.style4	{
+		font-size: 12px;
+		line-height: 16px;
+		}
+
+.style5	{
+		font-family: "Times New Roman", Times, serif;
+		}
+
+.style7	{
+		font-size: 16px;
+		}
+
+.style9	{
+		font-size: 10px;
+		}
+
+.style6	{
+		font-size: 12px; 
+		font-family: Arial, Helvetica, sans-serif;
+		}
+
+.style11{
+		font-family: Arial, Helvetica, sans-serif;
+		font-weight: bold;
+		}
+
+.style1	{
+		color: #003366;
+		}
+
+#main_content_window 
+		{
+		background-color:#ffffff;
+		float:left;
+		margin-left:235px;
+		width:620px;
+		padding-right:10px;
+		}
+#sub_content_window 
+		{
+		background-color:#ffffff;
+		float:left;
+		margin-left:235px;
+		width:830px;
+		}
+.news_right
+		{
+		margin-left:865px;
+		width:200px;
+		background-color:#EDE6CA;
+		}
+
+.news_right p
+		{
+		margin-left:10px;
+		padding-right:5px;
+		}
+.menu	{
+		position:absolute;
+		top:148px;
+		left:0px;
+		width:245px;
+		}
+#title_head
+		{
+		padding:0px;
+		margin:0px;
+		height:148px;
+		}
+.bio	{
+		width:600px;
+		float:left;
+		}
+.bio img	{
+		padding-right:5px;
+		
+		}
+.info	{
+		width:220px;
+		float:left;
+		}
+.events	{
+		width:380px;
+		float:left;
+		padding-left:10px;
+		}
+.videos	{
+		width:220px;
+		float:left;
+		}
+.ask_a_doctor
+		{
+		width:380px;
+		float:left;
+		margin-left:10px;
+		margin-right:10px;
+		}
+.ask_a_doctor p
+		{
+		
+		}
+#footer {
+		float:left;
+		height:60px;
+		background-color:#003366;
+		}
+.links_1 
+		{
+		background-color:#ffffff;
+		float:left;
+		width:415px;
+		}
+		
+.links_1 ul
+		{
+		padding: 0 0 0 0px;
+		list-style-type:none;		
+		}
+.links_2
+		{
+		background-color:#ffffff;
+		float:left;
+		width:415px;
+		}
+		
+.links_2 ul
+		{
+		padding: 0 0 0 0px;
+		list-style-type:none;		
+		}
