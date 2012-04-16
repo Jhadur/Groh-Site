@@ -1,0 +1,139 @@
+table {margin-top:0px;padding-top:0px;}
+p,ol,ul {font-size:12px;}
+a:hover     { color: #f00; text-decoration: none; }
+a    { color: #00f; }
+
+.sectiontitle     {color: #002947; font-weight: bold; font-size: 18px; font-family: Arial, Helvetica, sans-serif; margin-bottom: 0px; padding: 0px 5px 5px;}
+.sectiontitle a, .sectiontitle a:link, .sectiontitle a:active {color: #6a82ab;}
+.sectiontitle a:visited {color:#cedaed;}
+.sectiontitle a:hover {color: #002947;}
+.mainrtheads      {color: white; font-weight: bold; font-size: 13px; font-family: Arial, Helvetica, sans-serif;}
+.aaoshome         {color: #6495ed; font-style: italic; font-weight: bold; font-size: 16px; font-family: Arial, Helvetica, sans-serif;}
+.search  {color: #336; font-size: 10px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular;}
+.rtside       {font-weight: bold; font-size: 12px; font-family: Arial, Helvetica, sans-serif;}
+.rtsidehead  {font-weight: bold; font-size: 14px; font-family: Arial, Helvetica, sans-serif;}
+.storieshead  {font-weight: bold; font-size: 16px; font-family: Arial, Helvetica, sans-serif;}
+.logos {font-weight: bold; font-size: 12px; line-height: 20pt; font-family: Arial, Helvetica, sans-serif;}
+.smallcats  {font-weight: bold; font-size: 13px; font-family: Arial, Helvetica, sans-serif;}
+.text { font-size: 12px; font-family: Arial, Helvetica, sans-serif;}
+.linktext   { font-size: 12px; font-family: Arial, Helvetica, sans-serif;}
+.videotext   { color: #00008b; font-weight: bold; font-size: 14px; font-family: Arial, Helvetica, sans-serif; margin-left: 5px;}
+.articletype  {font-weight: bold; font-size: 14px; line-height: 25px; font-family: Arial, Helvetica, sans-serif; margin-left: 5px;}
+.focusHeader {font-size:14px;font-weight:bold;margin-top:6px;padding-left:10px;padding-right:10px;}
+.focusHeader a, .focusHeader a:link, .focusHeader a:active {color:#002947;}
+.focusHeader a:visited, .focusHeader a:hover {color:#cedaed;}
+.focusText {font-weight:normal;font-size:12px;padding-left:10px;padding-right:10px;}
+.newsHeader {font-size:14px;font-weight:bold;margin-top:14px;padding-left:10px;padding-right:10px;}
+.newsHeader a, .newsHeader a:link, .newsHeader a:active {color:#002947;}
+.newsHeader a:visited, .newsHeader a:hover {color:#cedaed;}
+.topicTitle {text-align:left;width:100%;font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:1.5em;color:#002947;border-bottom:2px solid #002947;margin-bottom:10px;margin-top:0px;padding-top:0px;}
+.header1 {clear:none;text-align:left;width:65%;font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:1.2em;color:#6a82ab;border-bottom:1px solid #6a82ab;margin-bottom:5px;margin-top:15px;}
+.newsText {font-weight:normal;font-size:12px;padding-left:10px;padding-right:10px;}
+.siteLinks, .siteLinks a, .siteLinks a:link, .siteLinks a:visited, .siteLinks a:active {font-size:14px;font-weight:bold;color:#002947;font-family:Arial, Helvetica, sans-serif;text-decoration:underline;}
+.siteLinks a:hover {color:#6a82ab;text-decoration:underline;}
+.instructions {color:#002947;font-weight:bold;padding:2px;border-bottom:1px solid #002947;font-family:Arial, Helvetica, sans-serif;font-size:smaller;}
+.catButton {font-size:11px;margin-left:5px;margin-bottom:0px;padding:1px;background-color:#cedaed;color:#6a82ab;font-weight:bold;font-family: Arial, Helvetica, sans-serif;border-left:1px solid #6a82ab;border-bottom:1px solid #6a82ab;}
+.catButton a, .catButton a:link, .catButton a:active, .catButton a:visited {color:#6a82ab;text-decoration:none;}
+.catButton a:hover {color:#FFFFFF;}
+.indent {margin-left:15px;}
+.catHeader {font-size:12px;margin-left:0px;margin-top:10px;padding:1px;background-color:#FFFFFF;color:#6a82ab;font-weight:bold;font-family:Arial, Helvetica, sans-serif;border-bottom:2px solid #6a82ab;}
+/*.au-comment {color:#FF0000;}*/
+h2 {color:#002947;margin-top:0px;padding-top:0px; font-family:Arial, Helvetica, sans-serif;}
+h3 {color:#6a82ab;margin-bottom:0px;padding-bottom:0px;padding-top:0px;font-family:Arial, Helvetica, sans-serif;}
+.bordered1 {border: 1px solid #000000;padding:0px;}
+.bordered1 tr td, .bordered1 tr th  {border: 1px solid #000000;margin:0px;}
+.small, table.small tr td, table.small tr th, table.small tr td p, table.small tr th p {font-size:.95em;}
+.menuCell {width:150px;min-width:150px;}
+.contentCell {width:538px;}
+.copyrightTop {display:none;}
+.shell {width:718px;clear:both;margin-top:0px;padding-top:0px;}
+h4 {font-style:italic;padding:0px;margin-bottom:0px;color:#003399;background-color:#ffffff;font-size:1.1em;line-height:auto;text-align:left;}
+h5 {font-size:1em;padding-bottom:0px;margin-bottom:0px;color:#000000;}
+.pageTop a {font-size:10px;color:#002947;margin-top:5px;}
+.menuItem {margin-top:.5em;margin-left:20px;color:#003399;font-size:1em;}
+.menuItem a, .menuItem a:link, .menuItem a:active {color:#003399;text-decoration:underline;}
+.menuItem a:visited {color:#999999;}
+.menuItem a:hover {color:#002947;}
+#addressBlock {display:none;}
+#masthead {width:723px;}
+#mastheadPrint, #mastheadPrint {display:none;}
+#searchBar {width:723px;}
+#menuBar{width:150px;left:0px;}
+#main{width:563px;min-width:563px;margin-left:160px;text-align:left;}
+.inlineDiv {display:inline;margin-top:5px;}
+td {vertical-align:top;font-family:Arial, Helvetica, sans-serif;font-size:12px;}
+#rightColumn {float:right;width:150px;}
+#pageMenu {background-color:#cedaed;border:2px solid #6a82ab;margin:5px;padding:5px;color:#000000;}
+.pageMenuItem {font-size:.9em;margin-bottom:5px;}
+.pageMenuItem a, .pageMenuItem a:link, .pageMenuItem a:active, .pageMenuItem a:visited {color:#000000;text-decoration:underline;}
+.pageMenuItem a:hover {color:#FFFFFF;}
+.removeLive{display:none}
+.unconverted {font-weight:bolder;margin-left:25px;font-style:italic;}
+.contentDiv {padding-left:10px;padding-right:10px;padding-top:0px;padding-bottom:10px;}
+.disclaimer {margin-top:20px;font-style:italic;color:#6a82ab;}
+.citationDiv {display:none;background-color:#FFFFCC;color:#6a82ab;font-size:10px;}
+span.citeNum{vertical-align:super;font-size:9px;font-weight:bold;}
+.refList{display:none;}
+.source {color:#002947;font-style:italic;margin-top:20px;}
+.contentDiv li {padding-bottom:10px;}
+.tableLabel {font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:1em;color:#6a82ab;margin-bottom:5px;margin-top:15px;}
+th {text-align:left;}
+.tablePara {margin-top:5px;padding-top:0px;margin-bottom:0px;padding-bottom:0px;}
+.translationBlock {margin:10px;padding:10px;background-color:#cedaed;border:2px solid #6a82ab;color:#000000;clear:both;}
+.header2 {margin-left:20px;text-align:left;width:45%;font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:1.1em;color:#002947;border-bottom:1px solid #002947;margin-bottom:5px;margin-top:15px;}
+.header1m {clear:none;text-align:left;width:65%;font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:1.2em;color:#6a82ab;border-bottom:1px solid #6a82ab;margin-bottom:5px;margin-top:25px;}
+.menuTitle {width:538px;padding-top:40px;background-repeat:no-repeat;padding-bottom:10px;}
+.sectionEditor {font-size:14px;font-weight:bold;color:#6a82ab;text-align:center;}
+.partnerBlock {margin:10px;padding:10px;background-color:#FFFFFF;border:2px solid #6a82ab;color:#000000;}
+
+.copyright {text-align:center;color:#666666;font-size:0.9em;}
+.pageTitle {text-align:center;width:100%;font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:1.5em;color:#002947;border-bottom:2px solid #002947;margin-bottom:10px;margin-top:0px;padding-top:0px;}
+.menuBarDiv {width:150px;}
+.figbox {border:1px solid #003399;margin:10px;margin-top:20px;background-color:#FFFFFF;text-align:center;padding:5px;}
+
+
+.linkPrint {display:none;}
+.linkDisplay {display:inline;}
+.linkDisplay a em{color: #003399;}
+
+.linkBar {width:140px;padding:5px;font-size:.9em;border:1px solid #002947;margin-top:20px;background-color:#f6f4f4;}
+.linkBarTitle:first-child{background-color:#6a82ab; color:#fff; font-size:14px;}
+.linkBarTitle {color:#6a82ab;;font-weight:bold;margin-top:2px; margin-bottom:5px; text-align:center; font-size:12px; border-top:1px dotted #CC0000;}
+.linkBarPrint{display:none;}
+.linkBarLinkPrint {display:none;}
+.linkBarLinkScreen {color:#002947;margin-bottom:15px; text-align:center;}
+.linkBarLinkScreen a, .linkBarLinkScreen a:link, .linkBarLinkScreen a:active {color:#6a82ab; padding-top:2px;}
+.linkBarLinkScreen a:visited {color:#666666;}
+.linkBarLinkScreen a:hover {color:#6a82ab;}
+
+
+.powsBlock{margin-left:5%;margin-right:5%;font-size:1em;border:1px solid #002947;padding:10px;}
+.powsName{color:#002947;font-size:1.2em;text-align:center;font-weight:bold;}
+.powsTitle{text-align:center;font-weight:normal;font-style:italic;}
+.powsURL {text-align:center;font-weight:bold;color:#6a82ab;}
+.topicAuthor {font-style:italic;margin-top:5px;}
+
+.orthodocReturnLink {margin-top:10px;margin-bottom:10px;margin-left:20%;margin-right:20%;background-color:#cedaed;color:#000000;font-weight:bold;padding:5px;text-align:center;text-decoration:underline;}
+.orthodocReturnLink a, .orthodocReturnLink a:link, .orthodocReturnLink a:active, .orthodocReturnLink a:visited {color:#6a82ab;}
+.orthodocReturnLink a:hover {color:#002947;}   
+
+#licensingBlock {margin-top:10px;margin-bottom:10px;margin-left:10px;margin-right:10px;background-color:#cedaed;color:#000000;font-weight:bold;padding:5px;text-align:center;text-decoration:underline;width:700px;}
+#licensingBlock a, #licensingBlock a:link, #licensingBlock a:active, #licensingBlock a:visited {color:#6a82ab;}
+#licensingBlock a:hover {color:#002947;}   
+
+table#footer {background-color:#cedaed;margin-top:10px;}
+table#footer td {font-size:.8em;color:#6a82ab;font-weight:bold;}
+table#footer td a, table#footer td a:link, table#footer td a:active {color:#6a82ab;}
+table#footer td a:visited {color:#999999;}
+table#footer td a:hover {color:#002947;}
+table.innerMenu {border:1px solid #000000;}
+table.innerMenu td {font-size:11px;}
+table.licensingHeader {margin-left:50px;margin-right:50px;margin-bottom:10px;border-bottom: 2px solid #6a82ab;background-color:#cedaed;margin-top:20px;clear:both;width:600px;}
+table.licensingHeader td {font-size:14px;font-weight:bold;}
+
+.subhead {color:#002947;font-style:italic;font-weight:bold;}
+.learnMore {text-align:right;font-style:italic;font-weight:bold;}
+.comment {color:#002947;font-weight:bold;}
+
+.copyrightBox {font-size:.9em;margin-top:20px;}
+.copyrightBottom {display:none;}
